@@ -7,7 +7,7 @@ const Page = () => {
   //https://velog.io/@jay/Next.js-13-master-course-middleware
   const headersList = headers();
   const pathname = headersList.get("x-pathname");
-  console.log(pathname); ///chat/ai-web-chat
+  console.log(pathname); ///
   
   return (
     <>
