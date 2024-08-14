@@ -42,7 +42,7 @@ export function middleware(request) {
       }
   });
 }
-​```
+```
 
 app/page.js
 ```
